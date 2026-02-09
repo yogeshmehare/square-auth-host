@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.clonesquarepayment",
+    "sha256_cert_fingerprints":
+    ["12:CD:30:B2:F7:44:24:7E:E7:F7:AB:BE:B6:8D:A3:0D:D3:7F:BC:DC:8C:25:E7:49:12:3B:BE:1F:AF:3A:63:8C"]
+  }
+}]
